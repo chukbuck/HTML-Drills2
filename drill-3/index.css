@@ -1,0 +1,57 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  article {
+    padding: 50px;
+  }
+  
+  header {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .square {
+    width: 80px;
+    height: 80px;
+    background-color: #4A90E2;
+  }
+  
+  .stripe {
+    height: 30vh;
+  }
+  
+  .stripe-1 {
+    background-color: #4A90E2;
+  }
+  
+  .stripe-2 {
+    background-color: #50E3C2;
+  }
+  
+  .stripe-3 {
+    background-color: #B8E986;
+  }
+  
+  .stripe-4 {
+    background-color: #F8E71C;
+  }
+  
+  .question-container {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+  }
+  
+  .question-container button {
+    height: 120px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+  }
+  
